@@ -2,16 +2,17 @@ html,
 body {
     margin: 0;
     background-color: #9a9ec3;
+    height: 100vh;
 }
 
 h1 {
-    text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(59, 17, 99);
     text-shadow: 0 2px 4px white;
 }
 
 #canvas {
+    background-color: #fff;
     border: 2px solid gray;
     border-radius: 10px;
     margin: 2rem 4rem;
