@@ -1,10 +1,15 @@
 html,
 body {
     margin: 0;
+    background-color: whitesmoke;
 }
 
 h1 {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(59, 17, 99);
+}
+
+#canvas {
+    border: 2px solid gray;
 }
